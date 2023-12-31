@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Devluxx.com](https://www.devluxx.com/)
 
 - 🌱 I’m currently learning **Shopify Apps Development**
-
+<a href="https://www.devluxx.com/" rel="dofollow"> Devluxx.com </div>
 - 👨‍💻 All of my projects are available at [https://www.hellosakin.com/](https://www.hellosakin.com/)
 
 - 📝 I regularly write articles on [Business Tools](https://www.devluxx.com/blogs/business-tools/clickfunnels-vs-shopify)
