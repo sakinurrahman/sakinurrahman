@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hellosakin.com/](https://www.hellosakin.com/)
 
-- 📝 I regularly write articles on [https://www.hellosakin.com/](https://www.devluxx.com/blogs/business-tools/clickfunnels-vs-shopify)
+- 📝 I regularly write articles on [Business Tools](https://www.devluxx.com/blogs/business-tools/clickfunnels-vs-shopify)
 
 - 📫 How to reach me **sakinur.ws99@gmail.com**
 
